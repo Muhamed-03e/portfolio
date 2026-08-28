@@ -7,7 +7,7 @@ const syne = Syne({ subsets: ["latin"], variable: "--font-syne" });
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Saif Fikry | Full Stack & Bot Developer",
+  title: "Muhamed Ahmed | Full Stack & Bot Developer",
   description: "Creative Developer Portfolio",
   icons: {
     icon: "/logo.png",

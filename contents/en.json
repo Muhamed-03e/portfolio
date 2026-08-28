@@ -1,0 +1,178 @@
+{
+    "about": {
+        "intro": "I'm a *Full-Stack Architect & System Engineer* with **90+ open-source projects** on GitHub, building **scalable and sustainable systems**.",
+        "description": "I'm someone who loves **learning new things** and constantly tries to put what I learn into practice. I develop *web*, *mobile*, and *desktop* applications. I started with **Sketchware** and grew into building complex distributed systems. I enjoy working with simple, **practical**, and **sustainable** tools.",
+        "full": "Hi, I'm **Muhamed Ahmed**, a developer from **Egypt** with **5 years** of coding experience and **90+ open-source projects** on GitHub. I'm mostly self-taught through my own projects and experiments, starting my journey with **Sketchware** and gradually evolving into building complex full-stack architectures.\n\nI started my programming journey with **Sketchware** — a visual Android development environment — which gave me my first taste of logic and problem-solving. From there, I moved on to web development with **HTML, CSS, and JavaScript**, and eventually modern frameworks like **React, Next.js, Laravel, and Node.js**.\n\nToday, my expertise spans **full-stack web development**, **Android app development** (Kotlin & Jetpack Compose), **Discord bot development**, **system engineering**, and **cloud infrastructure**. I work with a wide range of technologies including *React*, *Next.js*, *Vue.js*, *Laravel*, *TailwindCSS*, *PostgreSQL*, *MySQL*, *MongoDB*, *Kotlin*, *Docker*, and *Cloudflare*.\n\nI'm the **founder of VexFlix** (a high-performance streaming platform) and **Santafy** (a music streaming ecosystem). I've built everything from media processing tools in Rust/Tauri to Discord bots serving thousands of users, and free APIs for developers.\n\nI pay great attention to making my projects as **clean, understandable, and sustainable** as possible. I'm a bit **obsessive** about this — sometimes I make things harder for myself even when I know it's unnecessary.\n\nMy current goal is to specialize in **backend and system design** and make my projects more professional. In addition to this, I want to build my own systems, libraries, and simple, practical tools that solve real problems."
+    },
+    "manifesto": [
+        "RADICAL TRANSPARENCY",
+        "INTENTIONAL MINIMALISM",
+        "ARCHITECTURAL INTEGRITY",
+        "FIRST PRINCIPLES THINKING",
+        "PERFORMANCE WITHOUT COMPROMISE",
+        "SCALABLE VISION"
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Telegram & Discord Manager Bot",
+            "category": "Automation Bot",
+            "year": "2026",
+            "description": "A smart multi-function automation bot for Telegram and Discord featuring auto-moderation, custom welcome messages, automated logging, and scheduled channel announcements. Built for high-traffic group management with zero downtime.",
+            "image": "/projects/new3.png",
+            "repo": "https://github.com/Muhamed",
+            "stack": [
+                "Python",
+                "Telethon",
+                "Discord.py",
+                "AsyncIO",
+                "SQLite"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "AI Auto-Poster & Content Generator",
+            "category": "AI Tool",
+            "year": "2026",
+            "description": "Automated tool powered by OpenAI and Gemini APIs to automatically generate niche articles, create catchy social media captions, and auto-publish content on schedule. Supports multi-platform posting with cron-based scheduling.",
+            "image": "/projects/new2.png",
+            "demo": "https://github.com/Muhamed",
+            "repo": "https://github.com/Muhamed",
+            "stack": [
+                "Python",
+                "OpenAI API",
+                "FastAPI",
+                "Cron",
+                "MongoDB"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Crypto Price Alert & Tracker Bot",
+            "category": "FinTech Bot",
+            "year": "2026",
+            "description": "Real-time cryptocurrency tracking bot that delivers instant price spike alerts, candlestick charts, and market volume updates directly to your chat inbox. Supports Binance, Bybit, and multiple pairs simultaneously.",
+            "image": "/projects/new1.png",
+            "repo": "https://github.com/Muhamed",
+            "stack": [
+                "Node.js",
+                "WebSockets",
+                "Binance API",
+                "Telegram",
+                "Express.js"
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Automated Web Scraper & Extractor",
+            "category": "Utility Tool",
+            "year": "2026",
+            "description": "High-speed data extraction script designed to scrape product listings, prices, and leads into clean Excel/JSON files with anti-blocking proxy rotation. Handles dynamic JS-rendered pages with full headless browser support.",
+            "image": "/projects/new4.png",
+            "repo": "https://github.com/Muhamed",
+            "stack": [
+                "Python",
+                "Playwright",
+                "BeautifulSoup",
+                "Pandas",
+                "Proxies"
+            ]
+        },
+        {
+            "id": "5",
+            "title": "Modern E-Commerce Store Template",
+            "category": "Web Application",
+            "year": "2026",
+            "description": "Complete dark-mode online storefront with integrated shopping cart, instant Stripe checkout flow, product search filtering, and an admin dashboard. Built for performance and easy customization out of the box.",
+            "image": "/projects/new5.png",
+            "demo": "https://github.com/Muhamed",
+            "repo": "https://github.com/Muhamed",
+            "stack": [
+                "React",
+                "TailwindCSS",
+                "Stripe",
+                "Node.js",
+                "MongoDB"
+            ]
+        },
+        {
+            "id": "6",
+            "title": "Media Downloader & File Converter",
+            "category": "Desktop Tool",
+            "year": "2025",
+            "description": "Fast desktop utility allowing one-click download and conversion of audio, video, and image files with zero quality loss. Features a clean dark GUI, batch processing support, and FFmpeg under the hood.",
+            "image": "/projects/devx.jpeg",
+            "repo": "https://github.com/Muhamed",
+            "stack": [
+                "Python",
+                "FFmpeg",
+                "Tkinter",
+                "CustomTkinter"
+            ]
+        }
+    ],
+    "roadmap": [
+        {
+            "id": "01",
+            "year": "2021",
+            "description": "I started my programming journey with **Sketchware**, a visual Android development environment. This gave me my first introduction to programming logic, variables, conditions, and loops on a mobile platform.",
+            "stack": [
+                "Sketchware"
+            ]
+        },
+        {
+            "id": "02",
+            "year": "2022",
+            "description": "I first got introduced to formal software development in high school. I learned the fundamentals and logic of programming and started building my first web pages with HTML and CSS.",
+            "stack": [
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "id": "03",
+            "year": "2023",
+            "description": "I started developing static and dynamic websites by learning HTML, CSS, and JavaScript. During this period, I also learned how to use databases in my projects.",
+            "stack": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "MySQL"
+            ]
+        },
+        {
+            "id": "04",
+            "year": "2024",
+            "description": "It was my last year of high school. I significantly improved my UI development skills with CSS and continued working on web projects at my internship.",
+            "stack": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "MySQL"
+            ]
+        },
+        {
+            "id": "05",
+            "year": "2025",
+            "description": "After high school, I turned to modern technologies like React, Node.js, Tailwind CSS, and MongoDB. During this period, I developed many websites and applications. Additionally, I started writing various tools in Python for my personal use.",
+            "stack": [
+                "React",
+                "Node.js",
+                "TailwindCSS",
+                "MongoDB"
+            ]
+        },
+        {
+            "id": "06",
+            "year": "2026",
+            "description": "I started working as an intern at PostAjans, where I focused mainly on Laravel. I also built VexFlix and Santafy at scale, learned Android development with Kotlin, built Discord bots, created free APIs, and developed various personal projects utilizing Tauri, FFmpeg, and cloud infrastructure.",
+            "stack": [
+                "Laravel",
+                "Next.js",
+                "PostgreSQL",
+                "Kotlin",
+                "Docker"
+            ]
+        }
+    ]
+}

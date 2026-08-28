@@ -1,29 +1,29 @@
 {
     "contact": {
         "location": "Egypt",
-        "email": "santadisx@gmail.com",
+        "email": "moongaming675@gmail.com",
         "phone": "Not added yet."
     },
     "social": [
         {
             "label": "GitHub",
-            "href": "https://github.com/sv1ffff"
+            "href": "https://github.com/bheryahmed024-ai"
         },
         {
             "label": "Portfolio",
-            "href": "https://svif.online"
+            "href": "https://bheryahmed024-ai.github.io/portfolio/"
         },
         {
-            "label": "Instagram",
-            "href": "https://instagram.com/sv1ffff"
-        },
+       //     "label": "Instagram",
+     //       "href": "https://instagram.com/sv1ffff"
+   //     },
         {
             "label": "Email",
-            "href": "mailto:santadisx@gmail.com"
+            "href": "moongaming675@gmail.com"
         },
         {
             "label": "Discord",
-            "href": "https://discord.com/users/316126283652399106"
+            "href": "https://discord.com/users/1441127019147689986"
         }
     ],
     "stack": {
